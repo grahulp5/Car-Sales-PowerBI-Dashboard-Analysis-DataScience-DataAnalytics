@@ -52,3 +52,13 @@ I’m eager to hear your feedback! Feel free to explore, share, or suggest impro
 ## Connect with Me
 
 - **LinkedIn**: [Rahul Gupta](https://www.linkedin.com/in/rahul-gupta-a31749166/)
+
+## Links
+
+- [Embed this content](https://app.powerbi.com/reportEmbed?reportId=bdbaaf44-15ca-4b86-a178-47d1f61305d0&autoAuth=true&ctid=707c861d-6374-4af3-b74e-404192474f68)
+- HTML link for a Website: "<iframe title="Car Sales Dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=bdbaaf44-15ca-4b86-a178-47d1f61305d0&autoAuth=true&ctid=707c861d-6374-4af3-b74e-404192474f68" frameborder="0" allowFullScreen="true"></iframe>"
+- [Sharepoint page link](https://app.powerbi.com/reportEmbed?reportId=bdbaaf44-15ca-4b86-a178-47d1f61305d0)
+
+## License
+
+This project is free to use but don't forget to tag [Rahul Gupta](https://www.linkedin.com/in/rahul-gupta-a31749166/).
